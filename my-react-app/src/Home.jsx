@@ -5,7 +5,7 @@ function Home(s) {
 
   return (
     <div>
-   <h2>hello {s.a}</h2>
+   <h2>helloheloo {s.a}</h2>
     </div>
   )
 }
